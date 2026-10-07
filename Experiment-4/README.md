@@ -52,3 +52,7 @@ WELCOME TO APEX PROGRAMMING
 
 ## Result
 A simple Apex application was successfully developed and executed on the Salesforce cloud platform, and the expected message was displayed in the debug log.
+<img width="1920" height="1080" alt="Screenshot 2026-10-07 232839" src="https://github.com/user-attachments/assets/4d3da9ab-19a6-4217-8a44-6cae759948c4" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-07 233209" src="https://github.com/user-attachments/assets/b8ecf6c3-0a96-46bb-9d5e-42a315f252cb" />
+
