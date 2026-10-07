@@ -106,3 +106,9 @@ The web page (the downloaded template website) opens in the browser using the pu
 
 ## Result
 A web application was successfully deployed on an AWS EC2 instance using the Apache (httpd) web server and accessed through the instance's public IP address.
+
+
+<img width="1040" height="336" alt="Screenshot 2026-10-07 235255" src="https://github.com/user-attachments/assets/edcfd730-8c0e-41b0-8f30-108e52a27146" />
+
+<img width="1045" height="455" alt="Screenshot 2026-10-07 235236" src="https://github.com/user-attachments/assets/49559352-91e2-4151-817c-2655205a3fd0" />
+
