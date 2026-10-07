@@ -55,3 +55,9 @@ The addition of a and b:88
 
 ## Result
 The C compiler (`gcc`) was used in the Ubuntu virtual machine, and a simple C program was compiled and executed successfully.
+
+<img width="695" height="547" alt="Screenshot 2026-10-07 195337" src="https://github.com/user-attachments/assets/7204b822-8a5c-4f29-be1c-267674c30193" />
+
+<img width="822" height="482" alt="Screenshot 2026-10-07 195615" src="https://github.com/user-attachments/assets/be0a5083-5217-4a68-a819-957c2b2348b0" />
+
+
