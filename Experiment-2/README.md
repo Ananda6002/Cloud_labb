@@ -1,25 +1,57 @@
-Aim: To install a C compiler in a virtual machine created using VirtualBox and execute a simple C program.
+# Experiment 2: Install a C Compiler in the Virtual Machine Created Using VirtualBox and Execute a Simple Program
 
+## Aim
+To install a C compiler in the virtual machine created using VirtualBox and execute a simple program.
 
-Procedure
+## Procedure
 
-1. Open VirtualBox and import the provided Ubuntu .ova file using File → Import Appliance.
+### Part A: Import the Ubuntu virtual machine
+1. Open VirtualBox.
+2. Go to **File** > **Import Appliance**.
+3. Browse and select the `ubuntu_gt6.ova` file.
+4. Go to **Settings**, select **USB** and choose **USB 1.1**.
+5. Start the `ubuntu_gt6` virtual machine.
 
-2. Browse and select the ubuntu_gt6.ova file and complete the import process.
+### Part B: Write and run the C program
+1. Open the terminal.
+2. Go to the working directory:
+```bash
+   cd /opt/axis2/axis2-1.7.3/bin
+```
+3. Create the C file:
+```bash
+   gedit first.c
+```
+4. Type the C program and save it:
+```c
+   #include <stdio.h>
 
-3. Open Settings → USB and select USB 1.1, then start the Ubuntu virtual machine.
+   int main()
+   {
+       int a, b, sum;
+       printf("Enter two number:\n");
+       scanf("%d %d", &a, &b);
+       sum = a + b;
+       printf("The addition of a and b:%d\n", sum);
+       return 0;
+   }
+```
+5. Compile the program:
+```bash
+   gcc first.c
+```
+6. Run the program:
+```bash
+   ./a.out
+```
 
-4. Open the Terminal in Ubuntu and navigate to the required directory.
+## Output
+```
+Enter two number:
+65
+23
+The addition of a and b:88
+```
 
-5. Create a C program using:
-gedit hello.c
-
-6. Write the simple C program and save the file.
-
-6. Compile the program using:
-gcc hello.c
-
-7. Execute the compiled program using:
-./a.out
-
-8. Verify the displayed output.
+## Result
+The C compiler (`gcc`) was used in the Ubuntu virtual machine, and a simple C program was compiled and executed successfully.

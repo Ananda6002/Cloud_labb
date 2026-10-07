@@ -1,15 +1,19 @@
-Step 1: Download the VirtualBox/VMware Workstation setup file and open the .exe file.
+# Experiment 1: Install VirtualBox / VMware Workstation with Different Flavors of Linux or Windows OS on Top of Windows 7 or 8
 
-Step 2: Click Next in the installation wizard and continue with the default options.
+## Aim
+To install VirtualBox / VMware Workstation with different flavors of Linux or Windows OS.
 
-Step 3: Click Next again to proceed with the installation settings.
+## Procedure
 
-Step 4: If a network interface warning appears, click Yes to continue.
+1. Download the VirtualBox `.exe` installer and double-click it to start the setup. Click **Next**.
+2. Click **Next** on the custom setup screen.
+3. Click **Next** on the next screen (shortcuts and features options).
+4. Click **Yes** on the warning that the network connection will be reset temporarily.
+5. Click **Install**.
+6. Wait for the installation to complete and click **Finish**. The VirtualBox icon appears on the desktop.
 
-Step 5: Click Install and wait for the installation to complete.
+## Output
+VirtualBox is installed and its icon is shown on the desktop screen.
 
-Step 6: After installation, the VirtualBox/VMware icon will appear on the desktop.
-
-Step 7: Open the application and create a virtual machine by selecting the required Linux or Windows operating system.
-
-Step 8: Complete the virtual machine setup and start the virtual OS.
+## Result
+VirtualBox was successfully installed, and guest operating systems can now be created on top of it.
