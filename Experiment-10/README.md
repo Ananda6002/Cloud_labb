@@ -70,3 +70,5 @@ https://<distribution-domain-name>.cloudfront.net
 
 ## Result
 A static web application was successfully deployed using S3 on AWS and delivered through CloudFront.
+
+<img width="961" height="400" alt="Screenshot 2026-10-07 235758" src="https://github.com/user-attachments/assets/309296a7-aaf2-48dd-b90d-bff8a57d503f" />
