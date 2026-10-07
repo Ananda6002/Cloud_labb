@@ -91,3 +91,8 @@ EmailManager.sendMail('Your email address', 'Email Subject', 'Email Body');
 
 ## Result
 A mailing service was successfully implemented using Apex on the Salesforce platform, and a test email was sent and received.
+
+<img width="1917" height="868" alt="Screenshot 2026-07-21 194517" src="https://github.com/user-attachments/assets/a7a3f101-6db7-4de7-a552-da97beac4980" />
+
+<img width="1897" height="870" alt="Screenshot 2026-07-21 194532" src="https://github.com/user-attachments/assets/2523ec57-1ad7-4dc5-97b6-cee62767db3c" />
+
