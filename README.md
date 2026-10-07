@@ -1,4 +1,4 @@
-# Cloud Computing Lab
+# Cloud Computing and Security Lab
 
 This repository contains the aim, procedure, output and result for each experiment of the Cloud Computing Lab.
 
