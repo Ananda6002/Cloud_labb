@@ -17,3 +17,8 @@ VirtualBox is installed and its icon is shown on the desktop screen.
 
 ## Result
 VirtualBox was successfully installed, and guest operating systems can now be created on top of it.
+
+<img width="737" height="432" alt="Screenshot 2026-10-07 192457" src="https://github.com/user-attachments/assets/114085a2-f705-4828-8492-1e77de71aaf0" />
+
+<img width="627" height="486" alt="Screenshot 2026-10-07 192536" src="https://github.com/user-attachments/assets/4438ac24-7352-48df-96fd-d8eb347fbc7e" />
+
