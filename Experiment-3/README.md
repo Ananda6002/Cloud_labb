@@ -29,3 +29,7 @@ Step 1: Select the instance you want to connect to and click the Connect button 
 Step 2: Copy the SSH command shown in the SSH client tab. It uses your key pair to connect to the EC2 instance.
 
 Step 3: Open a terminal, go to the folder where your .pem file is saved, and paste the copied command.
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-07 232839" src="https://github.com/user-attachments/assets/0f8a22b8-0f9e-475d-bd05-154db948b9fd" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-07 233209" src="https://github.com/user-attachments/assets/cbf150a7-3c9c-4e5b-9d54-babd66029e6f" />
+
